@@ -4,3 +4,4 @@ This project was created in order to optimize the traffic on Guadalajara interse
 ## Technologies used
 - Flask
 - Jupyter
+- AgentPy
